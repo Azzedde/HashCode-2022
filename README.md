@@ -1,4 +1,4 @@
-# HashCode-2022-Team-Brackets
+# HashCode-2022
 Our solution for the 2022 [Google Hashcode](https://codingcompetitions.withgoogle.com/hashcode) qualification round problem with libraries and books.
 
 <p align="center">
